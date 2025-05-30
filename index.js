@@ -12,4 +12,3 @@ function generateExcuse() {
 }
 let p = document.querySelector('#excuse');
 p.innerHTML = generateExcuse();
-console.log(generateExcuse());
